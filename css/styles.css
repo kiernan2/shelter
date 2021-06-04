@@ -1,24 +1,55 @@
 h1{
   font-weight:bold;
+  font-family:Arial, Helvetica, sans-serif;
 }
-.dog{
-  background-color: brown;
-}
-.dog h1{
-  font-size: larger;
-}
-.cat{
-  background-color: crimson;
-}
-.cat p{
+p{
   font-style: italic;
 }
+.dog{
+  margin: 12px;
+  padding: 5px;
+  background-color: brown;
+  height: 20%;
+}
+.dog img{
+  margin: auto;
+  float: right;
+  height: 20%;
+  display: block;
+}
+.cat{
+  margin: 12px;
+  padding: 5px;
+  background-color: crimson;
+  height: 20%;
+}
+.cat img{
+  margin: auto;
+  float: right;
+  height: 20%;
+  display: block;
+}
 .bat{
+  margin: 12px;
+  padding: 5px;
   background-color: darkred;
+  height: 20%;
+}
+.bat img{
+  margin: auto;
+  float: right;
+  height: 20%;
+  display: block;
 }
 .rat{
+  margin: 12px;
+  padding: 5px;
   background-color: darksalmon;
+  height: 20%;
 }
 .hamster{
+  margin: 12px;
+  padding: 5px;
   background-color: firebrick;
+  height: 20%;
 }
