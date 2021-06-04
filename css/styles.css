@@ -1,0 +1,24 @@
+h1{
+  font-weight:bold;
+}
+.dog{
+  background-color: brown;
+}
+.dog h1{
+  font-size: larger;
+}
+.cat{
+  background-color: crimson;
+}
+.cat p{
+  font-style: italic;
+}
+.bat{
+  background-color: darkred;
+}
+.rat{
+  background-color: darksalmon;
+}
+.hamster{
+  background-color: firebrick;
+}
